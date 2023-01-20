@@ -8,3 +8,4 @@ This is my first 'stuff' made by Unity. I originally tried making a Tetris game,
 
 ## And...
 .gitignore from [Unity.gitignore](https://github.com/github/gitignore/blob/266303e2715f206bf9c41cb138133bdcaa79fa92/Unity.gitignore)
+Playable .exe in [Export](https://github.com/BoboRamirez/theInevitableFlappyBird/tree/main/Export)
